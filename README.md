@@ -89,7 +89,7 @@ The agent can use these 5 tools automatically:
 python main.py
 ```
 
-### Shortem Improvements  Checklist
+### Short-term Improvements Checklist
 - [ ] Add authentication (JWT)
 - [ ] User storage and RAG
 - [ ] Replace in-memory sessions with Redis
