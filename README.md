@@ -52,19 +52,14 @@ export ANTHROPIC_API_KEY="your-api-key-here"
 ```
 
 ### 3. Run It!
-
-**Option A: API Server**
 ```bash
 python main.py
 # Visit http://localhost:8000/docs for interactive API
 ```
-
-
-**Option C: Run Tests**
+### Run Tests
 ```bash
 pytest -v
 ```
-
 
 ## Available Tools
 
