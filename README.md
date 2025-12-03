@@ -86,7 +86,7 @@ python main.py
 
 ### Short-term Improvements Checklist
 - [ ] Add authentication (JWT)
-- [ ] User storage and RAG
+- [ ] Vector DBs for RAG to enhance conversation accuracy
 - [ ] Replace in-memory sessions with Redis
 - [ ] Add real API integrations
     - [ ] Integration with bike rental services
